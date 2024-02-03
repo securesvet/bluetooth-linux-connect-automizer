@@ -13,3 +13,5 @@ Or you may use an alias for a convenient connection of your device
 Open your airpods while script is runnin and enjoy
 
 Also, I may try to implement this script into Electron application, so that you are going to have a beautiful animation of your airpods just like on the IPhone or Mac. 
+
+Will use Webapi
