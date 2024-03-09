@@ -1,4 +1,4 @@
-# Airpods connection for linux
+a# Airpods connection for linux
 
 Firstly, you should put mac of your device in bash script
 
